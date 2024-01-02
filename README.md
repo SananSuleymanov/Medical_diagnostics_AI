@@ -8,6 +8,7 @@ The training notebook of model can be found in train.ipynb.
 For the stroke prediction, Logistic Regression model is employed and it is also trained on the Kaggle dataset (https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 
 You can check how application performs in below-mentioned video. 
+
 Note: The application code is not public.
 
 https://github.com/SananSuleymanov/Medical_diagnostics_AI/assets/92025504/48738c85-434e-4c2a-83dd-118e8886e5f8
